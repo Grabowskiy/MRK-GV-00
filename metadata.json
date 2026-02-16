@@ -1,0 +1,7 @@
+{
+  "name": "ESP32 Rover Command",
+  "description": "High-performance control interface for ESP32-S3 robotics with Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
